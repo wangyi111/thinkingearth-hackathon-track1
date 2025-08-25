@@ -38,10 +38,10 @@ See the webinar on September 3rd at 10:00 AM CEST for an official introduction. 
 ### Demo notebooks
 
 Here we prepare some demo jupyter notebooks playing with example EO foundation models.
-- Partial tuning (freeze encoder) on classification downstream task: `track1_demo1_classification.ipynb`
-- Partial tuning on segmentation/regression downstream task: `track1_demo2_segmentation.ipynb`
-- Simple parameter-efficient fine tuning (LoRA): `track1_demo3_PEFT.ipynb`
-- Simple image retrieval: `track1_demo4_retrieval.ipynb`
+- Partial tuning (freeze encoder) on classification downstream task: [`track1_demo1_classification.ipynb`](ThinkingEarth_hackathon_track1_demo1_classification.ipynb)
+- Partial tuning on segmentation/regression downstream task: [`track1_demo2_segmentation.ipynb`](ThinkingEarth_hackathon_track1_demo2_segmentation.ipynb)
+- Simple parameter-efficient fine tuning (LoRA): [`track1_demo3_PEFT.ipynb`](ThinkingEarth_hackathon_track1_demo3_PEFT.ipynb)
+- Simple image retrieval: [`track1_demo4_retrieval.ipynb`](ThinkingEarth_hackathon_track1_demo4_retrieval.ipynb)
 
 
 ### Example EO foundation models 
