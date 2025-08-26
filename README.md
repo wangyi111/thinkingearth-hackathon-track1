@@ -99,8 +99,9 @@ Other useful resources:
 
 You can pick or combine one or more example topics below, as well as explore other topics you find interesting and valuable.
 
-- Do foundation models provide more benefits on some tasks / task types while less on some others?
+- Do foundation models provide more benefits on some task types while less on some others?
 - Do different foundation models have different strengths and weaknesses?
+- What are the practical limitations of existing foundation models?
 - Does it hold that larger foundation models perform better than smaller ones?
 - Can one foundation model trained on one modality be transferred to another modality?
 - How do foundation models perform across different amount of labels (many to zero)?
@@ -111,7 +112,7 @@ You can pick or combine one or more example topics below, as well as explore oth
 - Explore parameter efficient fine tuning techniques (LoRA, bias, Prompt, and more?)
 - Explore what EO FMs "see" in embeddings through feature visualization
 - Explore explanability methods to interpret what a foundation model focus on
-- Explore whether embeddings preserve semantic similarity across tasks
+- Explore whether embeddings preserve semantic similarity across tasks and modalities
 - Explore novel real world tasks beyond benchmark suites
 - Explore combining foundation models with other data sources (e.g. socio-economic data) for complex problems
 - ......
